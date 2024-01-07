@@ -1,5 +1,3 @@
-# AzureDbHosting
-
 # AzureDbHosting MVC Application
 
 This MVC application serves as a practical project I used to learn how to deploy a server and database on Azure Cloud.
